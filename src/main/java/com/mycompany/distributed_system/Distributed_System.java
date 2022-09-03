@@ -15,6 +15,7 @@ public class Distributed_System {
 
     public static void main(String[] args) throws IOException {
         //System.out.println("Hello World!");
-        Bai3.Readchar();
+        Readchar.readbyte();
+        //Bai3.Readchar();
     }
 }
